@@ -31,7 +31,7 @@ Metodología de trabajo: **Scrum**.
 | Rol | Integrante |
 |---|---|
 | Product Owner | Jesús Alejandro García Vázquez |
-| Scrum Master | [Nombre] |
+| Scrum Master | Enzo Valdés Zavala |
 | Integrante | Rafael Ortega de la Paz |
 
 ## Estructura del repositorio
